@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @makirs
 - 👀 I’m interested in yarn
-- 🌱 I’m currently learning yarn
+- 🧶 I’m currently learning yarn
 - 💞️ I’m looking to collaborate on yarn
-- 📫 How to reach me ...
+- 📫 How to reach me 🧶...
 
 <!---
 makirs/makirs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
